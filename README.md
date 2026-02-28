@@ -149,7 +149,7 @@ A powerful backend needs a fluid interface. I architect client-side solutions th
 
 ---
 
-## 🔬 Scientific Impact & Bio-Informatics
+## Scientific Impact & Bio-Informatics
 
 **Deep Axiom** is not just about SaaS; it's about Science. I am deeply committed to applying our computational power to **Oncology and Life Sciences**.
 
@@ -159,7 +159,7 @@ A powerful backend needs a fluid interface. I architect client-side solutions th
 
 ---
 
-## 🌐 The Vision: Why We Build
+## The Vision: Why We Build
 
 I believe the future belongs to **Autonomous Systems** and **AI-Native Organizations**.
 
