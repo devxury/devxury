@@ -26,7 +26,7 @@
 
 <br/>
 
-## 🏛️ Executive Profile: The Intersection of Math & Market
+## Executive Profile: The Intersection of Math & Market
 
 > **"Code is a commodity. Architecture is an asset. Vision is the currency."**
 
