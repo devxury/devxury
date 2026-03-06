@@ -36,7 +36,7 @@ In a market saturated with wrappers and low-code solutions, I specialize in **De
 
 ---
 
-## 🚀 Venture Building & Strategic Leadership
+## Venture Building & Strategic Leadership
 
 My primary focus is the creation and acceleration of technology ventures. I operate with a **CEO mindset**, ensuring that every line of code contributes to the company's valuation and strategic positioning.
 
