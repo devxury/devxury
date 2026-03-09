@@ -50,7 +50,7 @@ My primary focus is the creation and acceleration of technology ventures. I oper
 
 ## Generative AI & Large Language Model Engineering
 
-We are moving beyond simple API integrations. At Deep Axiom, I lead the strategy for **Sovereign AI**—owning the intelligence rather than renting it.
+We are moving beyond simple API integrations. At Deep Axiom i lead the strategy for **Sovereign AI**—owning the intelligence rather than renting it.
 
 ### **LLM Fine-Tuning & Domain Adaptation**
 I specialize in taking open-weight models and transforming them into vertical experts through rigorous **Fine-Tuning (PEFT/LoRA)** and **Reinforcement Learning from Human Feedback (RLHF)**.
