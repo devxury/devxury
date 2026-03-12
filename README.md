@@ -59,7 +59,7 @@ I specialize in taking open-weight models and transforming them into vertical ex
 *   **Vertical Specialization:** Training models specifically on proprietary datasets (Legal, Medical, Financial) to outperform generalist models like GPT-4 in niche tasks.
 *   **RAG Architectures:** Orchestrating **Retrieval-Augmented Generation** systems that connect LLMs with our vector databases (SurrealDB/Pinecone), ensuring the AI hallucinates less and cites sources accurately.
 
-### **Multi-Modal Integration Strategy**
+### **Multi Modal Integration Strategy**
 *   **Gemini & GPT-4o Integration:** When necessary, I architect hybrid systems that leverage the massive context windows of Gemini for analyzing unstructured data lakes, while using smaller, faster local models for reasoning.
 
 <div align="center">
