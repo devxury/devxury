@@ -48,7 +48,7 @@ My primary focus is the creation and acceleration of technology ventures. I oper
 
 ---
 
-## Generative AI & Large Language Model Engineering
+## Generative AI and Large Language Model Engineering
 
 We are moving beyond simple API integrations. At Deep Axiom i lead the strategy for **Sovereign AI**—owning the intelligence rather than renting it.
 
