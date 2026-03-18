@@ -90,7 +90,7 @@ This is the core of our **Physical AI** strategy. I leverage advanced mathematic
 *   **TensorFlow & PyTorch:** Utilizing these frameworks to build bespoke Convolutional Neural Networks (CNNs) and Transformers. I focus on model optimization—reducing inference time while maintaining high accuracy—crucial for real-time commercial applications.
 *   **Mathematical Foundation:** My approach to AI is grounded in Linear Algebra and Calculus. I understand the "black box" of AI, allowing me to fine-tune loss functions and optimizers for specific business use cases.
 
-### **Industrial & Medical Vision**
+### **Industrial and Medical Vision**
 *   **OpenCV & Image Processing:** Engineering pipelines for medical imaging, industrial quality control, and autonomous surveillance.
 *   **YOLO (You Only Look Once):** Deploying state-of-the-art object detection systems. I have experience fine-tuning YOLO models for edge devices, enabling AI detection on hardware with limited resources—a key factor for IoT scalability.
 
