@@ -142,7 +142,7 @@ A powerful backend needs a fluid interface. I architect client-side solutions th
 <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></a> <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" /></a> <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a> <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-Realtime_&_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
 
 ### **Data Persistence (The Memory)**
-*   **SurrealDB & MongoDB:** Flexible schemas for rapidly evolving data models.
+*   **SurrealDB - MongoDB:** Flexible schemas for rapidly evolving data models.
 *   **InfluxDB:** Handling time-series data for IoT and financial analytics.
 
 <a href="https://surrealdb.com/" target="_blank"><img src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white" /></a> <a href="https://www.influxdata.com/" target="_blank"><img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" /></a> <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
