@@ -28,7 +28,6 @@
 
 ## Executive Profile: The Intersection of Math & Market
 
-> **"Code is a commodity. Architecture is an asset. Vision is the currency."**
 
 I am a **Founder and Chief Architect** focused on building technology with high barriers to entry. My background is not merely in software development, but in the rigorous application of **Mathematics to solve systemic inefficiencies**. I lead **Deep Axiom**, where we do not just build products; we engineer **Digital Assets** designed for exponential scalability and long-term valuation.
 
