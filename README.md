@@ -172,7 +172,6 @@ I am always open to connecting with **strategic partners, forward-thinking inves
 
 <div align="center">
   <br/>
-  <h3>"Mathematics is the language of nature. Technology is how we speak it back."</h3>
   <p><i>Diego Alberto Juarez Salazar — Founder & CEO</i></p>
   <br/>
   <!-- VISITOR COUNT - RASTREA INTERÉS -->
